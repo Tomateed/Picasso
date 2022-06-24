@@ -1,0 +1,16 @@
+🇺🇸
+👋 Hello!
+📄 First of all, put the file "Picasso" on your desktop, then open with "Visual Studio Code".
+💱 Next, please check if you have the "package.json" file, if so, open the "Terminal" and write "npm i".
+✅ Everything will be installed automatically.
+✨ You just have to put the token of your bot in "config.json" and write in the terminal "node index".
+🗻 Mention your bot and it will explain you what you have to do.
+
+
+🇫🇷
+👋 Bonjour !
+📄 Tout d'abord, mettez le fichier "Picasso" sur votre bureau, puis ouvrez avec "Visual Studio Code".
+💱 Ensuite, veuillez vérifier que vous avez bien le fichier "package.json", si oui, ouvrez le "Terminal" et écrivez "npm i".
+✅ Tout s'installe automatiquement.
+✨ Il ne vous reste plus qu'à mettre le token de votre bot dans "config.json" et écrire dans le terminal "node index".
+🗻 Mentionnez votre bot et il vous expliquera ce qu'il vous reste à faire.
